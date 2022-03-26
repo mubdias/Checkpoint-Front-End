@@ -143,10 +143,8 @@ a.button__video:active {
 }
 
 .presentation__text {
-  display: absolute;
   color: white;
   width: 75%;
-  border: 1px white;
   background-color: rgba(255, 255, 255, 0.35);
   border: 0.5px groove white;
 }
